@@ -1,6 +1,6 @@
 PROYECTO CONTROL Y GESTION DE RECURSOS HIDRICOS
 
-[![Designer-6.jpg](https://i.postimg.cc/PJJymyd1/Designer-6.jpg)](https://postimg.cc/q6f2r8h7)
+[![Designer-6.jpg](https://i.postimg.cc/PJJymyd1/Designer-6.jpg)](https://postimg.cc/q6f2r8h7)     
 
 ## Informacion General
 
